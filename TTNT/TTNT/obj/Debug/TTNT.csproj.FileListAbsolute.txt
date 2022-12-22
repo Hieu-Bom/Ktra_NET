@@ -1,0 +1,8 @@
+D:\Code\C#\TTNT\TTNT\bin\Debug\TTNT.exe.config
+D:\Code\C#\TTNT\TTNT\bin\Debug\TTNT.exe
+D:\Code\C#\TTNT\TTNT\bin\Debug\TTNT.pdb
+D:\Code\C#\TTNT\TTNT\obj\Debug\TTNT.csproj.AssemblyReference.cache
+D:\Code\C#\TTNT\TTNT\obj\Debug\TTNT.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\TTNT\TTNT\obj\Debug\TTNT.csproj.CoreCompileInputs.cache
+D:\Code\C#\TTNT\TTNT\obj\Debug\TTNT.exe
+D:\Code\C#\TTNT\TTNT\obj\Debug\TTNT.pdb
